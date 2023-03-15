@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ynkcc
-- 🌱 I’m currently learning Java?(English,yes)
+- a fresh man
 
 <!---
 Ynkcc/Ynkcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
